@@ -47,6 +47,10 @@ NOTE: ACCESS THE CLASSES DIRECTLY OR DOWNLOAD THE ZIP FILE.
 
    java QuantumBookstoreFullTest
 
+## OUTPT OF THE CODE
+
+![image](https://github.com/user-attachments/assets/9ad4bed5-4b71-4b3d-9eb5-abf9b758a78a)
+
 ## Author
 
 This project was written manually in plain Java as part of an internship application. It follows the requirements provided in the task.
